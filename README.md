@@ -1,5 +1,9 @@
 # Deepcolorization
 
-download the pretrained model by running bash pretrained_models/download_siggraph_model.sh, which will give you a few models.
-Original caffe weights [Recommended] ./checkpoints/siggraph_caffemodel/latest_net_G.pth is the original caffemodel weights, converted to PyTorch. It is recommended. Be sure to set --mask_cent 0 when running it.
-Retrained model: ./checkpoints/siggraph_retrained/latest_net_G.pth. The model achieves better PSNR but performs qualitatively differently. Note that this repository is an approximate reimplementation of the siggraph paper.
+- 모델 다운로드:
+    * (1) 해당 프로젝트를 실행시키기 위한 모델을 다운로드 받습니다.
+      ```mkdir -p ./checkpoints/siggraph_retrained
+         MODEL_FILE=./checkpoints/siggraph_retrained/latest_net_G.pth
+         URL=http://colorization.eecs.berkeley.edu/siggraph/models/pytorch.pth
+         wget -N $URL -O $MODEL_FILE```
+        * `./checkpoints/siggraph_retrained/latest_net_G.pth` 에 맞게 경로를 설정해주세요.
