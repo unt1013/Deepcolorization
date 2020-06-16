@@ -14,6 +14,6 @@
     ``` python manage.py runserver ```
     를 입력해 실행합니다.
 
-- 해당 이미지와 같이 256x256 크기의 이미지를 input data로 넣습니다
+- 해당 이미지와 같이 256x256 크기의 이미지를 input data로 넣습니다. 
 ![00000000_0p031_fake_reg](https://user-images.githubusercontent.com/29967386/84729296-53aa1280-afce-11ea-818a-028d35ea793b.png)
 
