@@ -14,6 +14,18 @@
     ``` python manage.py runserver ```
     를 입력해 실행합니다.
 
+# FilterRemover
+
+- 필터가 씌워진 사진을 첨부합니다.
+
+![unnamed](https://user-images.githubusercontent.com/29967386/84734705-983caa80-afdc-11ea-9138-47e4faa16745.jpg)
+![unnamed (2)](https://user-images.githubusercontent.com/29967386/84734715-9d99f500-afdc-11ea-8da3-5393b4c62f45.jpg)
+![unnamed (3)](https://user-images.githubusercontent.com/29967386/84734724-a1c61280-afdc-11ea-8a00-be5942ca0be4.jpg)
+
+- 위 이미지들과 같이 필터가 씌워진 사진을 삽입하면, 필터가 제거된 이미지가 출력됩니다.
+
+![00000000_0p031_real](https://user-images.githubusercontent.com/29967386/84729526-df23a380-afce-11ea-8093-42a74fd5528b.png)
+
 # Colorization
 
 - 해당 이미지와 같이 256x256 크기(권장)의 이미지를 input data로 넣습니다. (256x256 크기가 아니어도 되지만 resize 과정에서 픽셀이 깨지는 현상이 발생합니다)
