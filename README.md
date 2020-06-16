@@ -23,3 +23,4 @@
 - 해당 이미지에서 특정 부분의 색상값을 가져와 해당 픽셀부분에 적용시킵니다.
 
 ![00000000_0p031_hint_ab](https://user-images.githubusercontent.com/29967386/84729446-af749b80-afce-11ea-9541-126a7bfbfa8b.png)
+![00000000_0p031_fake_reg](https://user-images.githubusercontent.com/29967386/84729470-be5b4e00-afce-11ea-8fae-bd77dd6de507.png)
