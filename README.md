@@ -24,3 +24,8 @@
 
 ![00000000_0p031_hint_ab](https://user-images.githubusercontent.com/29967386/84729446-af749b80-afce-11ea-9541-126a7bfbfa8b.png)
 ![00000000_0p031_fake_reg](https://user-images.githubusercontent.com/29967386/84729470-be5b4e00-afce-11ea-8fae-bd77dd6de507.png)
+
+- 이 기술을 토대로, 사용자는 특정 부분에 원하는 색상값을 주입시킬 수 있습니다. 이를 통해 해당 부분에 새로운 색깔을 추가하는 것이 가능합니다
+
+![00000001_0p031_hint_ab](https://user-images.githubusercontent.com/29967386/84729585-0ed2ab80-afcf-11ea-8586-ddcd71f8beb0.png)
+![00000001_0p031_fake_reg](https://user-images.githubusercontent.com/29967386/84729588-109c6f00-afcf-11ea-9a0b-186112dd2484.png)
