@@ -14,7 +14,10 @@
     ``` python manage.py runserver ```
     를 입력해 실행합니다.
 
+
 # FilterRemover
+
+![dcz_rf](https://user-images.githubusercontent.com/29967386/84888346-1cbd2500-b0d2-11ea-9105-5416762aa25d.gif)
 
 - 필터가 씌워진 사진을 첨부합니다.
 
@@ -27,6 +30,8 @@
 ![00000000_0p031_real](https://user-images.githubusercontent.com/29967386/84729526-df23a380-afce-11ea-8093-42a74fd5528b.png)
 
 # Colorization
+
+![dcz_c-_1_](https://user-images.githubusercontent.com/29967386/84888378-2ba3d780-b0d2-11ea-9908-ca4854607103.gif)
 
 - 해당 이미지와 같이 256x256 크기(권장)의 이미지를 input data로 넣습니다. (256x256 크기가 아니어도 되지만 resize 과정에서 픽셀이 깨지는 현상이 발생합니다)
 
